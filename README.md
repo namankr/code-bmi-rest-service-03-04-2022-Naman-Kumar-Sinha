@@ -6,4 +6,4 @@ calculate the total number of overweight people using ranges in the column BMI
 npm i <br />
 npm start <br />
 
-app should start at port 8000
+app should start at http://localhost:8000/bmi
